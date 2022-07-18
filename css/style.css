@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Edu+NSW+ACT+Foundation:wght@600&family=Festive&family=Playfair+Display:ital@1&family=Source+Sans+Pro:wght@200&display=swap');
+body{
+width: 80%;
+padding-left:20%;
+}
+
+h2{
+margin-left:80px;
+padding-top:60px;
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.pargrgh1{
+width: 350px;
+margin-top:-5px;
+margin-left: 80px;
+font-size:15px;
+color: rgb(168, 166, 163);
+font-family: 'Edu NSW ACT Foundation', cursive;
+ }
+
+.hero{
+display: flex;
+margin-top:30px;
+padding-bottom: 50px;
+}
+
+.leftdiv{
+width: 50%;
+}
+
+img{
+width:100%;   
+}
+
+.rightdiv{
+width: 50%;
+background-color:rgb(233, 232, 232);
+}
+
+.pargrgh2{
+width: 400px; 
+color: rgb(168, 166, 163);
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+h1{
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.pargrgh3{
+color: rgb(168, 166, 163);
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.centerdiv{
+margin-left:15%;
+}
+
+.label1,.label2{
+display: block;
+margin-top: 20px;
+width:20%;
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+input{
+position: absolute;
+display: block;
+margin-top: 20px;
+width:20%;
+font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
+
+.button1{
+background-color: rgb(9, 71, 204);
+color: rgb(255, 255, 255);
+
+
+}
+.button1,.button2{
+border:none;
+border-radius: 5px;
+height:35px;
+display: block;
+margin-top: 20px;
+width:80%;
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.last{
+margin-top: 60px;
+width: 200px;
+font-size:13px ;
+color: rgb(168, 166, 163);
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.fab{
+margin-right:10px;
+}
+.fas{
+color: rgb(168, 166, 163);
+position: relative;
+padding-left:250px;
+}
+   
+   
